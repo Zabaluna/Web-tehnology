@@ -1,0 +1,16 @@
+body {
+    background: green;
+}
+
+.cat1 {
+    width:  500px;
+}
+
+.cat2 { 
+    width:  500px;
+    height: 500px;
+}
+
+h2 {
+    color: rgb(243, 14, 167);
+}
